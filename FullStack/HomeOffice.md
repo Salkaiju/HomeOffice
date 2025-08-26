@@ -19,5 +19,20 @@ Desenvolver um quiz interativo em Java utilizando arrays, estruturas de repetiç
 
 Modelo para a Atividade:
 https://github.com/RodrigoBergenthal/JAVA/blob/main/src/Game/Quiz.java
+---------------------------------------------------------------------------------------------------------
 
+## 🏠 Instruções para o Home Office — Dia 21
+
+Olá, pessoal! 👋
+
+Gostaria de solicitar que, para o **Home Office de segunda-feira**, vocês assistam ao seguinte vídeo:
+
+📺 [Vídeo: ](https://www.youtube.com/watch?v=D3L8IOncLkg)
+
+Após assistir, criem um **README.md** sobre o assunto, com sua **opinião pessoal**. Podem usar um gerador de README como postado no Discord para ajudar na estrutura. ✍️
+
+🗓️ **Lembrete importante:**  
+Este conteúdo será **apresentado em aula na terça-feira**, então caprichem!
+
+Desejo a todos um ótimo final de semana! 🌟  
 
