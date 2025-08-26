@@ -1,6 +1,6 @@
 # HomeOffice
-Dia : 21/07/2025
+Dia : 26/08/2025
 
-GitHub link : https://github.com/JuuhSouza/Modulo-2-logicaProgramacao
+GitHub link : https://github.com/JuuhSouza/MuseuPrograma-ao
 
-Cetificado Link : https://cursos.alura.com.br/user/juliasouzak4/course/logica-programacao-funcoes-listas/certificate
+Cetificado Link : ...
